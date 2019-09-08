@@ -8,7 +8,7 @@ struct StaticAutoRegister
 	}
 };
 //MyClass.h
-class MyClass
+class MyClass   // could be lazy singlton
 {
     //[...]
 };
